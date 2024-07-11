@@ -1,0 +1,45 @@
+body{
+    background-color: aquamarine;
+}
+h1{
+    color: red;
+}
+nav{
+    background-color: blue;
+}
+#img{
+    width: 80px;
+    height: 80px;
+}
+nav li{
+    color: rgb(217, 36, 36);
+}
+.title{
+    color: rgb(27, 110, 183);
+    padding: 50px;
+    width: 10px 20px 10px;
+    text-align: center;
+}
+p{
+    background-color: aqua;
+    padding: 10px 5px ;
+    margin: 10px 20px;
+}
+.st{
+    color: rgb(27, 110, 183);
+    padding: 50px;
+    width: 10px 20px 10px;
+}
+.po{
+    text-align: center;
+    color: rgb(27, 110, 183);
+    padding: 50px;
+    width: 10px 20px 10px;
+}
+.from{
+    text-align: center;
+    background-color: brown;
+    margin: 10px 7px;
+    padding: 12px 8px;
+    color: aquamarine;
+}
